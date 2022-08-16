@@ -6,4 +6,4 @@ This project consists of 3 main sections:
   2. Google Actions Console - to configure conversational aspect
   3. Google Functions - fulfilment platform 
  
- Setup: 
+ **Setup:** 
