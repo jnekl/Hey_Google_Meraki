@@ -7,3 +7,7 @@ This project consists of 3 main sections:
   3. Google Functions - fulfilment platform 
  
  **Setup:** 
+
+Meraki Dashboard API:
+  1. Enable API access in your Meraki dashboard organization and obtain an API key [instructions](https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API/).
+  2. 
