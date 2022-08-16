@@ -80,4 +80,4 @@ As you can see, Google Actions is using Node.JS as a programming language and I 
 
 **Conclusion:**
 
-This project was a way to showcase the endless possibilites with the Meraki API and ultimately automate. Meraki's goal is to simplify eveything and I believe we showed a fun way to simplify using Google voice commands.
+This project was a way to showcase the endless possibilites with the Meraki API and ultimately automate. Meraki's goal is to simplify everything and I believe we showed a fun way to simplify using Google voice commands.
