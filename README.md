@@ -68,7 +68,7 @@ This is where we start coding and programming our handlers which in turn will fu
 
 Go to Webhooks section in Google Actions Console and you will see a code editor there with a few lines of code.
 
-(This code)[https://github.com/jnekl/Hey_Google_Meraki/blob/main/Index.js] is to program a handler which returns a number of clients currently connected to the network. There are two pieces of input: your API key from Meraki Dashboard and your Meraki network ID [how to find network ID](https://developer.cisco.com/meraki/api-latest/#!getting-started/find-your-network-id)
+[This code](https://github.com/jnekl/Hey_Google_Meraki/blob/main/Index.js) is to program a handler which returns a number of clients currently connected to the network. There are two pieces of input: your API key from Meraki Dashboard and your Meraki network ID [how to find network ID](https://developer.cisco.com/meraki/api-latest/#!getting-started/find-your-network-id)
 
   -Please see ["Index.js"](https://github.com/jnekl/Hey_Google_Meraki/blob/main/Index.js) file for the code
   
